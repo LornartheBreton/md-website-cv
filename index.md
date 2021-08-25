@@ -19,6 +19,9 @@ classoption: "11pt"
 + **Bachelor's Degree in Data Science**, ITAM (Instituto Tecnologico Autonomo de Mexico), 2019-2023
 	+ Studying a bachelor’s degree in Data Science with a 70% merit-based scholarship. Completed coursework includes: Data Structures, Calculus, Relational Databases, Linear Algebra, and Macroeconomics. 
 
++ **Statistical Learning Diploma**, Stanford Online (EDX), 2021
+	+ Completed a course in Statistical Learning methods taught by Stanford professors. Topics include Linear Regression, Linear Model Selection, Tree-based Methods, and Unsupervised Learning methods.
+
 # Work Experience
 
 + **Data Science/Business Intelligence Intern**, Didi Chuxing, June 2021 - July 2021
@@ -45,9 +48,9 @@ classoption: "11pt"
 + English, Advanced (TOEFL iBT 115/120)
 
 ### Programming languages
-+ C/C++, 6 years
-+ Java, 5 years
-+ Python, 4 years
++ C/C++, 6 years 
++ Java, 5 years 
++ Python, 4 years 
 + C#/Typescript/Javascript, 2 years
 + Julia/R, 1 year 
 
